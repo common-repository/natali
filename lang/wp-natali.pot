@@ -1,0 +1,241 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Natali - синхронизация каталога\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-02-04 08:21+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.8; wp-5.9\n"
+"X-Domain: wp-natali"
+
+#. Author of the plugin
+msgid "@Drozzi"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://drozzi.pro"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://promo.natali37.ru/"
+msgstr ""
+
+#: app/views/pages/import.php:11
+msgid "ID"
+msgstr ""
+
+#. Name of the plugin
+msgid "Natali - синхронизация каталога"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Больше не нужно тратить уйму времени, чтобы добавить товары “Натали” на ваш "
+"сайт, ведь теперь в один"
+msgstr ""
+
+#: app/classes/database/Model_Attributes.php:36
+msgid "Бренд"
+msgstr ""
+
+#: app/views/pages/settings.php:103
+msgid "Брэнд"
+msgstr ""
+
+#: app/views/pages/settings.php:89
+msgid "Видео"
+msgstr ""
+
+#: app/classes/Pages/Delete.php:33
+msgid ""
+"Внимание! После нажатия \"Начать удаление\" будут удалены все товары, "
+"которые были импортированы данным модулем, а так же удалит их торговые "
+"предложения и все фотографии."
+msgstr ""
+
+#: app/views/pages/import.php:17
+msgid "Выбрать категорию на сайте"
+msgstr ""
+
+#: app/views/components/table/table.php:6
+msgid "Выделить все"
+msgstr ""
+
+#: app/views/pages/settings.php:53 app/views/pages/settings.php:68
+#: app/views/pages/settings.php:82 app/views/pages/settings.php:97
+#: app/views/pages/settings.php:111 app/views/pages/settings.php:126
+#: app/views/pages/settings.php:141 app/views/pages/settings.php:155
+msgid "Да"
+msgstr ""
+
+#: app/classes/AdminMenu.php:41 app/classes/AdminMenu.php:42
+#: app/classes/Pages/Import.php:79
+msgid "Импорт товаров"
+msgstr ""
+
+#: app/classes/AdminMenu.php:30 app/classes/AdminMenu.php:31
+msgid "Каталог Натали"
+msgstr ""
+
+#: app/views/pages/settings.php:11
+msgid "Ключи API Woocommerce"
+msgstr ""
+
+#: app/classes/database/Model_Attributes.php:61
+msgid "Лейбл"
+msgstr ""
+
+#: app/views/pages/settings.php:45
+msgid "Лейбол"
+msgstr ""
+
+#: app/classes/database/Model_Attributes.php:71
+msgid "Макс. размер"
+msgstr ""
+
+#: app/views/pages/settings.php:147
+msgid "Маркированный товар"
+msgstr ""
+
+#: app/classes/database/Model_Attributes.php:31
+msgid "Материал"
+msgstr ""
+
+#: app/views/pages/settings.php:74
+msgid "Материалы"
+msgstr ""
+
+#: app/classes/database/Model_Attributes.php:66
+msgid "Мин. размер"
+msgstr ""
+
+#: app/views/layouts/footer.php:8
+msgid "На сайт натали"
+msgstr ""
+
+#: app/views/pages/import.php:14
+msgid "Название категории"
+msgstr ""
+
+#: app/classes/AdminMenu.php:60 app/classes/AdminMenu.php:61
+#: app/classes/Pages/Settings.php:22
+msgid "Настройки"
+msgstr ""
+
+#: app/views/layouts/app-table.php:9 app/views/layouts/app.php:11
+msgid "Натали"
+msgstr ""
+
+#: app/views/pages/settings.php:30
+msgid "Наценка на товар"
+msgstr ""
+
+#: app/views/pages/import.php:105
+msgid "Начать импорт"
+msgstr ""
+
+#: app/views/pages/delete.php:21
+msgid "Начать удаление"
+msgstr ""
+
+#: app/views/pages/import.php:60
+msgid "Не импортировать"
+msgstr ""
+
+#: app/views/pages/settings.php:50 app/views/pages/settings.php:65
+#: app/views/pages/settings.php:79 app/views/pages/settings.php:94
+#: app/views/pages/settings.php:108 app/views/pages/settings.php:123
+#: app/views/pages/settings.php:138 app/views/pages/settings.php:152
+msgid "Нет"
+msgstr ""
+
+#: app/views/layouts/app-table.php:29
+msgid "Нету активных заказов"
+msgstr ""
+
+#: app/views/pages/delete.php:21
+msgid "Нечего удалять"
+msgstr ""
+
+#: app/views/pages/delete.php:24 app/views/pages/import.php:115
+msgid "Остановить"
+msgstr ""
+
+#: app/classes/Pages/Import.php:74
+msgid "Пожалуйста активируйте Woocommerce"
+msgstr ""
+
+#: app/classes/Pages/Import.php:59
+#, php-format
+msgid ""
+"Получить <a href=\"%1s\" target=\"_blank\">Api ключи</a> для работы плагина"
+msgstr ""
+
+#: app/views/pages/settings.php:15
+msgid "Пользовательский ключ"
+msgstr ""
+
+#: app/views/pages/settings.php:34
+msgid "Процент наценки"
+msgstr ""
+
+#: app/classes/database/Model_Attributes.php:56
+msgid "Размер"
+msgstr ""
+
+#: app/views/pages/settings.php:118 app/views/pages/settings.php:133
+msgid "Размер мин"
+msgstr ""
+
+#: app/views/pages/settings.php:23
+msgid "Секретный код пользователя"
+msgstr ""
+
+#: app/classes/database/Model_Attributes.php:41 app/views/pages/settings.php:60
+msgid "Состав"
+msgstr ""
+
+#: app/views/pages/import.php:95 app/views/pages/settings.php:165
+msgid "Сохранить"
+msgstr ""
+
+#: app/classes/database/Model_Attributes.php:51
+msgid "Товар маркирован"
+msgstr ""
+
+#: app/classes/database/Model_Attributes.php:26
+msgid "Товар натали"
+msgstr ""
+
+#: app/classes/AdminMenu.php:69 app/classes/AdminMenu.php:70
+#: app/classes/Pages/Delete.php:23
+msgid "Удаление товаров"
+msgstr ""
+
+#: app/views/pages/settings.php:41
+msgid "Характеристики товаров"
+msgstr ""
+
+#: app/classes/database/Model_Attributes.php:46
+msgid "Цвет"
+msgstr ""
+
+#: app/views/layouts/app-table.php:24
+msgid "Экспорт"
+msgstr ""
+
+#: app/classes/AdminMenu.php:51 app/classes/AdminMenu.php:52
+msgid "Экспорт товаров"
+msgstr ""
+
+#: app/classes/Pages/Export.php:19
+msgid "Экспорт товаров из заказов"
+msgstr ""

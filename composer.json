@@ -1,0 +1,21 @@
+{
+    "name": "drozzi/wp-natali",
+    "description": "Natali products sync catalog",
+    "type": "wordpress-plugin",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Drozzi\\NataliProducts\\": "resources/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Natali",
+            "email": "info@natali37.ru"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "automattic/woocommerce": "^3.0"
+    }
+}
